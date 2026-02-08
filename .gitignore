@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.vscode/
+
+# Ignored custom files
+9_RAG_agent/2_classiofication_driven_agent.ipynb
+9_RAG_agent/3_rag_powered_tool_calling.ipynb
